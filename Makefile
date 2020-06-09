@@ -1,5 +1,5 @@
 CC = gcc 
-CFLAGS = -Wall -Wextra -Werror -std=c99 -pedantic 
+CFLAGS = -Wall -Wextra -Wno-unused-paramaters -Werror -std=c99 -pedantic 
 LDFLAGS = 
 
 INCLUDE_DIRS := include

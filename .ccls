@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-Wno-unused-paramaters
+-Werror
+-I
+./include
+-std=c99
